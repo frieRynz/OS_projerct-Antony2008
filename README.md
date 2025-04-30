@@ -1,10 +1,5 @@
-# YuedLeaw Project
-
-<div align="center">
-  <img src="images/LOGO.png" alt="Logo" width="200" height="200">
-  <h3>YuedLeaw Project</h3>
-  <p>Premium T-shirt Design & Customization Platform</p>
-</div>
+# Movie Sentiment Analysis With Process Swapping Simulation
+</br>
 
 ## Table of Contents
 - [Codes](#codes)
@@ -12,10 +7,14 @@
 - [raw datasets](#rawdataset)
 
 ## Raw datasets
+In order to train the movie sentiment analysis, we used the movie review dataset from this link : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews 
+The dataset file name is 'IMDB Dataset.csv'. 
 
-YuedLaew is a Thai-based e-commerce platform specializing in high-quality, personalized T-shirt designs. Our platform offers:
+To download it, you need to sign-in/sign-up a Kaggle account. 
+Then click the 'Download' button on the top right corner of the website shown in the pictures
 
-
+Lastly, you need to extract the file named : 'archive.zip' to get the dataset.
+Now, you are 'IMDB Dataset.csv' is ready
 ## Codes
 
 Before beginning installation, ensure you have:
