@@ -248,10 +248,19 @@ display(text_box, predict_button)
 
 ## Commands
 
-1. Check if Node.js is already installed:
-   ```bash
-   node --version
+1. Let's test the Sentiment Analysis and Ram visualization:
+   - Use a Minecraft Movie review from IMDB website which rating of 9/10
+   - Expected Analyis: *positive*
+   ```review
+   Genuinely, this movie was so shocking in the best way possible. The trailers did NOT do it justice. From start to finish, it was entertaining, funny, silly and ridiculous. The Digital Effects are great, and so is the acting. It was surprisingly violent too. It had some pretty.. shocking imagery to say the least, and could definitely scare younger viewers. I'd been expecting this movie to be written weird, with lots of plotholes and forced dialogue, but oh was I wrong. This is a genuine funny little comforting movie, that anyone could find enjoyable. This is absolutely one of, if not my favourite video game movie interpretations. Good job, Mojang!
    ```
-   If it shows a version number, you can skip to the next section.
-
+   - Place the review on this input box : 
+<div align="center">
+<img src="images/inputBox.png" alt="Download Screenshot" width="600" height="200">
+</div>
+   - Then press on the *'Run with RAM Simulation'* button below to see the result.
+   - The Output should be as shown : 
+<div align="center">
+<img src="images/output.png" alt="Download Screenshot" width="600" height="200">
+</div>
 
