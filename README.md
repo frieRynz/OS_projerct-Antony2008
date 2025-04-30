@@ -220,8 +220,31 @@ def predict_with_ram_sim(text):
         text_box.disabled = True
 ```
 </br>
-8) **Graphical user interface for Sentiement Analysis:**</br>
-- Creates an interactive UI in the Jupyter Notebook using ipywidgets so the user can: Type a movie review. Click a button to trigger sentiment prediction with RAM simulation.
+8) **GUI for User Input:**</br>
+- Creates an interactive UI in the Jupyter Notebook using ipywidgets so the user can:
+  - Type a movie review.
+  - Click a button to trigger sentiment prediction with RAM simulation.
+
+```
+import ipywidgets as widgets
+from IPython.display import display
+
+text_box = widgets.Text(
+    value='',
+    placeholder='Type a movie review...',
+    description='Review:',
+    layout=widgets.Layout(width='80%')
+)
+
+predict_button = widgets.Button(description="Run with RAM Simulation")
+
+def on_click(b):
+    if text_box.value.strip():
+        predict_with_ram_sim(text_box.value)
+
+predict_button.on_click(on_click)
+display(text_box, predict_button)
+```
 
 ## Commands
 
