@@ -40,7 +40,7 @@ Load the uploaded dataset into Pandas dataframe called df and display the first 
 import pandas as pd
 
 # Load dataset
-df = pd.read_csv("IMDB Dataset_small.csv")
+df = pd.read_csv("IMDB Dataset.csv")
 df.head()
 ```
 </br>
@@ -256,11 +256,11 @@ display(text_box, predict_button)
    ```
    - Place the review on this input box : 
 <div align="center">
-<img src="images/inputBox.png" alt="Download Screenshot" width="600" height="200">
+<img src="images/inputBox.png" alt="Download Screenshot" width="700" height="100">
 </div>
    - Then press on the *'Run with RAM Simulation'* button below to see the result.
    - The Output should be as shown : 
 <div align="center">
-<img src="images/output.png" alt="Download Screenshot" width="600" height="200">
+<img src="images/output.png" alt="Download Screenshot" width="500" height="500">
 </div>
 
