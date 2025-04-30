@@ -25,9 +25,6 @@ Now, your 'IMDB Dataset.csv' is ready
 Paste all of code cells on your python complier (Google Colab suggested) : 
 </br> We will go through each block of code and describe their functionalities.
 </br> Please run the code in the following order. 
-- **Node.js** installed (see installation instructions below)
-- **MySQL** installed and running
-- **Visual Studio Code** or another code editor
 
 1) **Uploading dataset:** 
 Please select the the 'IMDB Dataset.csv' from you local device after you have run this code block. 
