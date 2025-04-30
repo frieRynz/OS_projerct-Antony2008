@@ -11,11 +11,20 @@
 - [Commands](#commands)
 - [raw datasets](#rawdataset)
 
-## Codes
+## Raw datasets
 
 YuedLaew is a Thai-based e-commerce platform specializing in high-quality, personalized T-shirt designs. Our platform offers:
 
-   ```
+
+## Codes
+
+Before beginning installation, ensure you have:
+
+- **Node.js** installed (see installation instructions below)
+- **MySQL** installed and running
+- **Visual Studio Code** or another code editor
+
+ ```
    PORT = 3100
    
    DB_HOST = localhost
@@ -25,14 +34,6 @@ YuedLaew is a Thai-based e-commerce platform specializing in high-quality, perso
    ```
 
 ## Commands
-
-Before beginning installation, ensure you have:
-
-- **Node.js** installed (see installation instructions below)
-- **MySQL** installed and running
-- **Visual Studio Code** or another code editor
-
-## Raw dataset
 
 1. Check if Node.js is already installed:
    ```bash
