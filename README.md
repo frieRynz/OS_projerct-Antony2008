@@ -1,4 +1,15 @@
-# OS_projerct-Antony2008
+<div align ="center"># OS_projerct-Antony2008</div>
+## Table of Contents
+- [About The Project](#about-the-project)
+- [Prerequisites](#prerequisites)
+  - [Installing Node.js](#installing-nodejs)
+- [Installation](#installation)
+  - [1. Database Setup](#1-database-setup)
+  - [2. Frontend Setup](#2-frontend-setup)
+  - [3. Backend Setup](#3-backend-setup)
+- [Starting the Application](#starting-the-application)
+- [Accessing the Website](#accessing-the-website)
+
 # 💻 Sentiment Prediction with RAM Swapping Simulation
 
 This project combines machine learning (sentiment analysis) with a simulated RAM management system inspired by operating system memory swapping techniques. Each user input (a movie review) is treated as a process that consumes memory. When RAM fills up, the system automatically swaps out old processes using FIFO or LRU policies.
