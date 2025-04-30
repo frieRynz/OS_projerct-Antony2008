@@ -220,8 +220,8 @@ def predict_with_ram_sim(text):
         text_box.disabled = True
 ```
 </br>
+
 8) **GUI for User Input:**
-**RAM Simulation Class:**</br>
 
 Creates an interactive UI in the Jupyter Notebook using ipywidgets so the user can:
 - Type a movie review.
