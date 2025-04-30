@@ -11,7 +11,7 @@ In order to train the machine learning for movie sentiment analysis, we used the
 The dataset file name is 'IMDB Dataset.csv'. 
 
 To download it, you need to sign-in/sign-up a Kaggle account. 
-Then click the 'Download' button on the top right corner of the website shown in the picture: 
+Then click the 'Download' button on the top right corner of the website shown in the picture: </br>
 <img scr="images/download.png" alt="Logo" width="350" height="200">
 
 Lastly, you need to extract the file named : 'archive.zip' to get the dataset.</br>
