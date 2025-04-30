@@ -7,14 +7,15 @@
 - [raw datasets](#rawdataset)
 
 ## Raw datasets
-In order to train the movie sentiment analysis, we used the movie review dataset from this link : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews 
+In order to train the movie sentiment analysis, we used the movie review dataset from this link : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews </br>
 The dataset file name is 'IMDB Dataset.csv'. 
 
 To download it, you need to sign-in/sign-up a Kaggle account. 
 Then click the 'Download' button on the top right corner of the website shown in the pictures
 
-Lastly, you need to extract the file named : 'archive.zip' to get the dataset.
-Now, you are 'IMDB Dataset.csv' is ready
+Lastly, you need to extract the file named : 'archive.zip' to get the dataset.</br>
+Now, your 'IMDB Dataset.csv' is ready
+</br>
 ## Codes
 
 Before beginning installation, ensure you have:
