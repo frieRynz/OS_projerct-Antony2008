@@ -27,7 +27,8 @@ Paste all of code cells on your python complier (Google Colab suggested) :
 </br> Please run the code in the following order. 
 
 1) **Uploading dataset:** 
-Please select the the 'IMDB Dataset.csv' from you local device after you have run this code block. 
+Sselect the the 'IMDB Dataset.csv' from you local device after you have run this code block. </br>
+Plese wait until the dataset is 100% uploaded before you run the next code cell.
 ```
 from google.colab import files
 uploaded = files.upload()
@@ -256,10 +257,10 @@ display(text_box, predict_button)
    ```
    - Place the review on this input box : 
 <div align="center">
-<img src="images/inputBox.png" alt="Download Screenshot" width="700" height="100">
+<img src="images/inputBox.png" alt="Download Screenshot" width="600" height="100">
 </div>
    - Then press on the *'Run with RAM Simulation'* button below to see the result.
-   - The Output should be as shown : 
+   - The Output should be as shown : </br>
 <div align="center">
 <img src="images/output.png" alt="Download Screenshot" width="500" height="500">
 </div>
