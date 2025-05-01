@@ -8,7 +8,8 @@
 
 ## Raw datasets
 In order to train the machine learning for movie sentiment analysis, we used the movie review dataset from this link : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews </br>
-Since the file size is to large to be uploaded on GitHub, you need to download it from Kaggle by yourself instead. We are so sorry for your inconvenience. </br>
+Since the file size is to large to be uploaded on GitHub, you need to download it from Kaggle by yourself instead. </br>
+We are so sorry for your inconvenience. </br>
 The dataset file name is 'IMDB Dataset.csv'. 
 
 To download it, you need to sign-in/sign-up a Kaggle account. 
