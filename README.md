@@ -30,7 +30,7 @@ Paste all of code cells on your python complier (Google Colab suggested) :
 
 1) **Uploading dataset:** </br>
 Select the the 'IMDB Dataset.csv' from you local device after you have run this code block. </br>
-Plese wait until the dataset is 100% uploaded before you run the next code cell.
+Please wait until the dataset is 100% uploaded before you run the next code cell.
 ```
 from google.colab import files
 uploaded = files.upload()
